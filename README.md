@@ -2,7 +2,7 @@
 
 I’m a Digital Marketer learning to code.
 
-Tech Stack used for "https:www.oteksolutions.net"
+Tech Stack used for "https://www.oteksolutions.net"
 --
 HTML, CSS
 
