@@ -2,7 +2,7 @@
 
 I’m a Digital Marketer learning to code.
 
-Tech Stack used for "www.oteksolutions.net"
+Tech Stack used for <a href:"https://www.oteksolutions.net" target=_blank >www.oteksolutions.net</a>
 --
 HTML, CSS
 
