@@ -2,6 +2,11 @@
 
 I’m a Digital Marketer learning to code.
 
+Tech Stack used for "https:www.oteksolutions.net"
+--
+HTML, CSS
+
+
 <!--
 **oteksolutions/oteksolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
