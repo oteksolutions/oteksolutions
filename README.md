@@ -4,6 +4,7 @@ I’m a Digital Marketer learning to code.
 
 Visit My Portfolio Website at: <a href="https://www.oteksolutions.net" target="_blank">www.oteksolutions.net<a>
 --
+These are the languages that I'm learning:
 HTML
 CSS
 
