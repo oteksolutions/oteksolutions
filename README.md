@@ -6,10 +6,11 @@ Visit My Portfolio Website at: <a href="https://www.oteksolutions.net" target="_
 --
 These are the languages that I'm learning:
 <br><br>
-HTML
+<ul>
+<li>HTML</li>
 <br>
-CSS
-
+<li>CSS</li>
+</ul>
 
 <!--
 **oteksolutions/oteksolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
