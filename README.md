@@ -11,7 +11,10 @@ These are the languages that I'm learning:
 <li>CSS</li>
 <li>JavaScript</li>
 </ul>
-
+<br>
+<footer>
+    <p>&copy; 2025 <a href="https://www.linkedin.com/in/ekweme-ken" target="_blank">Ken Ekweme</a> &bull; <a href="https://www.oteksolutions.net" target="_blank">OTek Solutions</a></p>
+</footer>
 <!--
 **oteksolutions/oteksolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
