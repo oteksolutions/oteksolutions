@@ -9,7 +9,7 @@ These are the languages that I'm learning:
 <ul>
 <li>HTML</li>
 <li>CSS</li>
-<li>JavaScript</li>
+<li>JavaScripts</li>
 </ul>
 <br>
 <footer>
